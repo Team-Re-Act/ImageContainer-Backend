@@ -40,4 +40,6 @@ out/
 .kotlin
 
 ### properties ###
-.properties
+*.properties
+
+src/main/resources/img/
